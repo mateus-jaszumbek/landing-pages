@@ -154,7 +154,7 @@ p {
 .header-content{
     grid-area: a;
     height: 500px;
-    background-image: url(/img/code.png);
+    background-image: url(/landing-pages/img/code.png);
     background-repeat: no-repeat;
     background-position: center left;
     background-size: cover;
